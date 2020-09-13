@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1509376321706-625cc20b97a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-size: cover;
+}
+.satu{
+    width: 700px;
+    height: 260px;
+    border: 1px solid black;
+    overflow: scroll;
+    margin: 0;
+    background-image: url(asset/avocado.jpg);
+    background-color: white ;
+    background-repeat: repeat-y;
+
+}
+p{
+    color: blue;
+    text-align: center;
+}
+.dua{
+    color: green;
+    text-align: left;
+}
+.tiga{
+    color: red;
+    text-align: right;
+}
